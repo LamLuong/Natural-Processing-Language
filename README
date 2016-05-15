@@ -1,0 +1,14 @@
+Words Prediction Program
+
+Run Program:
+- require Linux 64 bit and QT5
+- use cd command to go NLP folder.
+- Create Makefile:
+  run command: ~/Qt5.2.1/5.2.1/gcc_64/bin/qmake npl.pro
+
+- Run Makefile
+  run command: make
+System will generate running file in bin folder
+
+cd to bin folder
+  type ./main to run program.
